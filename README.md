@@ -2,10 +2,10 @@ webgl2-practice
 ========
 
 ```bash
-pnpm i
+bun i
 
-pnpm build
-pnpm dev
+bun run build
+bun dev
 ```
 
 ![Screenshot]
